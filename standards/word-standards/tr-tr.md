@@ -1,4 +1,5 @@
 | Doğru Yazım                   | Yanlış ya da Kullanılmayan Yazım(lar)                         | 
 |-------------------------------|---------------------------------------------------------------|
-| Karmaşık sayılar              | Kompleks sayılar                                              |
-| Karadelik                     | Kara delik, kara-delik                                        |
+| karmaşık sayılar              | kompleks sayılar                                              |
+| karadelik                     | kara delik, kara-delik                                        |
+| yalın sanal sayı              | pür sanal sayı, saf sanal sayı                                |
